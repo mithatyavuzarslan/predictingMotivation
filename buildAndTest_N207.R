@@ -1,5 +1,4 @@
-######## ANALİZ 207 düzeltme sonrası #####
-
+######## 
 
 url<-"http://www.cet110.com/finalSetSon_Mor.csv"
 Ogrenciler<-as.data.frame(read.csv(file=url,header=TRUE,sep=';',dec=','))
