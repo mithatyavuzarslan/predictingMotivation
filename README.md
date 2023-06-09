@@ -6,24 +6,43 @@ I also used a motivational scale to obtain their level of interests towards the 
 
 
 OturumAcmaSayisi: Number of entries made by the student to the ÖYS
+
 GecmisKonularaBakma: The number of interactions the student has with pages and content from previous weeks in the current week
+
 Gezinme Sayısı_Toplam: Total number of pages visited by the student
+
 GezinmeSayisi_Ortalama: Average number of pages visited in a listing, which is the total number of pages visited by the student divided by the number of logins
+
 ToplamOturumSuresi: Total time (seconds) spent by the student in the LMS during the course period.
+
 OrtalamaOturumSuresi: Average time spent by the student in one visit, divided by the total session duration divided by the number of logins (Seconds)
+
 MateryalIndirme: Number of times a student has downloaded shared files related to a topic or assignment
+
 OdevDenemeSayisi: The number of interactions the student has with the pages and content related to the assignment
+
 OdeveHarcananZaman: Time spent by the student on the assignment page (seconds)
+
 SayfadaKalma_Ortalama: Average time a student spends on a page divided by total session time by total browsing (Seconds)
+
 SınavOdakliCalisma: Time spent by the student in LMS during exam weeks (seconds)
+
 VideoIzlemeSuresi: Time (seconds) student spends on pages with video content
+
 YuklenenOdev: Number of homework uploaded by the student to the system
+
 SınavNotu: Student's end-of-term grade point average
+
 Devamsizlik: Hours of absence during the semester
+
 Faculty: Faculty to which the student is enrolled
+
 Class: Information on which grade the student is in
+
 Gender: Student's gender
+
 OgretimTuru: The way the course is taught in the relevant semester (distance or hybrid)
+
 ________________________________________
 Motivasyon (Target Attribute): The total score of the items answered by the student on the EES
 
