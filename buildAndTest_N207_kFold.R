@@ -1,7 +1,7 @@
 ######## ANALİZ 207 düzeltme sonrası #####
 ### 1'den sonra hepsi 1er artacak###
 
-url<-"http://www.cet110.com/finalSetSon_Mor.csv"
+url<-"https://raw.githubusercontent.com/mithatyavuzarslan/predictingMotivation/main/finalSetSon_Mor.csv"
 Ogrenciler<-as.data.frame(read.csv(file=url,header=TRUE,sep=';',dec=','))
 colnames(Ogrenciler)
 
