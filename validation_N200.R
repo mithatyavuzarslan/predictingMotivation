@@ -1,6 +1,6 @@
 ######### motivasyonlu ve UA anketsizler için validation #########
 
-url_m<-"http://www.cet110.com/finalSetSon_Mor.csv"
+url_m<-"https://raw.githubusercontent.com/mithatyavuzarslan/predictingMotivation/main/finalSetSon_Mor.csv"
 Ogrenciler_m<-as.data.frame(read.csv(file=url_m, header=TRUE,sep=';',dec=','))
 
 colnames(Ogrenciler_m)
@@ -33,7 +33,7 @@ df_m$Gender<-as.numeric(df_m$Gender)
 #########################
 
 
-url_v<-"http://www.cet110.com/validationSet2_.csv"
+url_v<-"https://raw.githubusercontent.com/mithatyavuzarslan/predictingMotivation/main/validationSet2_.csv"
 Ogrenciler_v<-as.data.frame(read.csv(file=url_v,header=TRUE,sep=';',dec=','))
 df_v <- Ogrenciler_v[ -c(1,4,(6:11),17,24,(28:30),(33:89))]
 df_v<- df_v[-c(9,10,13,15,16,17)]
