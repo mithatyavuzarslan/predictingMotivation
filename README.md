@@ -3,7 +3,7 @@ PREDICTION OF UNDERGRADUATE STUDENTS’ COURSE MOTIVATION USING ARTIFICIAL INTEL
 
 For reference: 
 
-Yavuzarslan, M. (2023). Prediction of Undergraduate Students’ Course Motivation Using Artificial Intelligence Methods. (Publication No.: 835167). PhD Dissertation, Istanbul University.
+* Yavuzarslan, M. (2023). Prediction of Undergraduate Students’ Course Motivation Using Artificial Intelligence Methods. (Publication No.: 835167). PhD Dissertation, Istanbul University.
 
 [PDF VERSION OF PhD Dissertation](https://www.researchgate.net/profile/Mithat-Yavuzarslan/publication/376456403_Yapay_Zeka_Yontemleri_ile_Universite_Ogrencilerinin_Ders_Motivasyonlarinin_Tahmin_Edilmesi_PREDICTION_OF_UNDERGRADUATE_STUDENTS'_COURSE_MOTIVATION_USING_ARTIFICIAL_INTELLIGENCE_METHODS/links/6579703a6610947889c34ad9/Yapay-Zeka-Yoentemleri-ile-Ueniversite-Oegrencilerinin-Ders-Motivasyonlarinin-Tahmin-Edilmesi-PREDICTION-OF-UNDERGRADUATE-STUDENTS-COURSE-MOTIVATION-USING-ARTIFICIAL-INTELLIGENCE-METHODS.pdf)
 
