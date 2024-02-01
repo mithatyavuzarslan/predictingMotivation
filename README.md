@@ -1,6 +1,9 @@
 # predictingMotivation
 PREDICTION OF UNDERGRADUATE STUDENTS’ COURSE MOTIVATION USING ARTIFICIAL INTELLIGENCE METHODS
 
+[PDF VERSION OF PhD Dissertation](https://www.researchgate.net/profile/Mithat-Yavuzarslan/publication/376456403_Yapay_Zeka_Yontemleri_ile_Universite_Ogrencilerinin_Ders_Motivasyonlarinin_Tahmin_Edilmesi_PREDICTION_OF_UNDERGRADUATE_STUDENTS'_COURSE_MOTIVATION_USING_ARTIFICIAL_INTELLIGENCE_METHODS/links/6579703a6610947889c34ad9/Yapay-Zeka-Yoentemleri-ile-Ueniversite-Oegrencilerinin-Ders-Motivasyonlarinin-Tahmin-Edilmesi-PREDICTION-OF-UNDERGRADUATE-STUDENTS-COURSE-MOTIVATION-USING-ARTIFICIAL-INTELLIGENCE-METHODS.pdf)
+
+
 This repository contains the R codes I wrote for my Phd dissertation. Basically, I collected log data from undergrads using an Learning Management System (LMS).
 I also used a motivational scale to obtain their level of interests towards the "Basic Computer Applications" course. The descriptions of the attributes are below:
 
